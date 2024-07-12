@@ -1,0 +1,6 @@
+{
+	"successful_authorization":"Авторизация прошла успешно",
+	"send_pass":"Успешно отправили пароль на e-mail",
+	"incorrect_data": "Такого логина или пароля нет",
+	"validation_problem": "Нужно исправить проблему валидации"
+}
